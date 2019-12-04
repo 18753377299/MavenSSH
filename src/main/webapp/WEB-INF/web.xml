@@ -11,8 +11,8 @@
   		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
   		<init-param>
 <!--   		加载文件，映射器、适配器 -->
-  			<param-name>contextLocationConfig</param-name>
-  			<param-value>classpath:config/springmvc.xml</param-value>
+<!--   			<param-name>contextLocationConfig</param-name> -->
+<!--   			<param-value>classpath:config/springmvc.xml</param-value> -->
   		</init-param>
   	</servlet>
   	
